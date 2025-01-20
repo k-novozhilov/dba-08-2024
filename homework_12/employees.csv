@@ -1,0 +1,21 @@
+name,surname,email,division,created_at,updated_at
+Иван,Иванов,ivan.ivanov@example.com,IT,2023-01-01 12:00:00,2023-01-01 12:00:00
+Петр,Петров,petr.petrov@example.com,HR,2023-01-02 12:00:00,2023-01-02 12:00:00
+Алексей,Сидоров,alexey.sidorov@example.com,Finance,2023-01-03 12:00:00,2023-01-03 12:00:00
+Мария,Кузнецова,maria.kuznetsova@example.com,IT,2023-01-04 12:00:00,2023-01-04 12:00:00
+Ольга,Смирнова,olga.smirnova@example.com,Marketing,2023-01-05 12:00:00,2023-01-05 12:00:00
+Сергей,Васильев,sergey.vasiliev@example.com,IT,2023-01-06 12:00:00,2023-01-06 12:00:00
+Анна,Павлова,anna.pavlova@example.com,HR,2023-01-07 12:00:00,2023-01-07 12:00:00
+Дмитрий,Морозов,dmitry.morozov@example.com,Finance,2023-01-08 12:00:00,2023-01-08 12:00:00
+Елена,Новикова,elena.novikova@example.com,IT,2023-01-09 12:00:00,2023-01-09 12:00:00
+Николай,Федоров,nikolay.fedorov@example.com,Marketing,2023-01-10 12:00:00,2023-01-10 12:00:00
+Татьяна,Михайлова,tatiana.mikhailova@example.com,IT,2023-01-11 12:00:00,2023-01-11 12:00:00
+Андрей,Волков,andrey.volkov@example.com,HR,2023-01-12 12:00:00,2023-01-12 12:00:00
+Екатерина,Алексеева,ekaterina.alexeeva@example.com,Finance,2023-01-13 12:00:00,2023-01-13 12:00:00
+Виктор,Лебедев,viktor.lebedev@example.com,IT,2023-01-14 12:00:00,2023-01-14 12:00:00
+Наталья,Семенова,natalia.semenova@example.com,Marketing,2023-01-15 12:00:00,2023-01-15 12:00:00
+Артем,Егоров,artem.egorov@example.com,IT,2023-01-16 12:00:00,2023-01-16 12:00:00
+Юлия,Орлова,yulia.orlova@example.com,HR,2023-01-17 12:00:00,2023-01-17 12:00:00
+Игорь,Антонов,igor.antonov@example.com,Finance,2023-01-18 12:00:00,2023-01-18 12:00:00
+Людмила,Тарасова,lyudmila.tarasova@example.com,IT,2023-01-19 12:00:00,2023-01-19 12:00:00
+Вадим,Белов,vadim.belov@example.com,Marketing,2023-01-20 12:00:00,2023-01-20 12:00:00
