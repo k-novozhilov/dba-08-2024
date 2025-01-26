@@ -65,7 +65,7 @@ CALL get_products('Electronics', 100.00, 500.00, 'Samsung', 'price', 'ASC', 10, 
 Дадим пользователю `client` права на выполнение процедуры `get_products`:
 
 ```sql
-GRANT EXECUTE ON PROCEDURE your_database.get_products TO 'client'@'localhost';
+GRANT EXECUTE ON PROCEDURE my_database.get_products TO 'client'@'localhost';
 FLUSH PRIVILEGES;
 ```
 
@@ -132,6 +132,6 @@ CALL get_orders('day', 'product');
 Дадим пользователю `manager` права на выполнение процедуры `get_orders`:
 
 ```sql
-GRANT EXECUTE ON PROCEDURE your_database.get_orders TO 'manager'@'localhost';
+GRANT EXECUTE ON PROCEDURE my_database.get_orders TO 'manager'@'localhost';
 FLUSH PRIVILEGES;
 ```
